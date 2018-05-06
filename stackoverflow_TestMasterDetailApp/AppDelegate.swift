@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  stackoverflow_TestMasterDetailApp
 //
-//  Created by Harsh Singh on 2016-08-10.
+//  Created by Aman  on 2016-08-10.
 //  Copyright © 2016 Harsh. All rights reserved.
 //
 
